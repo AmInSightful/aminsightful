@@ -3,7 +3,7 @@
 I’m striving to make a meaningful impact in AI-driven decision sciences and strategy, with a focus on innovation and ethical practices. My work bridges the worlds of emerging technologies, business strategy, and innovation, with a focus on creating meaningful impact. Here's what I'm working towards:
 
 ## 🌟 What I’m Building Now
-- **AI-Driven Decision Models: Exploring opportunities to create innovative solutions that enhance decision-making through advanced AI techniques and data-driven models.
+- **AI-Driven Decision Models:** Exploring opportunities to create innovative solutions that enhance decision-making through advanced AI techniques and data-driven models.
 - **Thought Leadership Content:** Developing a podcast and newsletter to share insights on emerging technologies and decision sciences with a growing audience.  
 - **Portfolio Projects:** Publishing technical use cases and applications of AI in strategy and technology on GitHub and Kaggle.  
 
